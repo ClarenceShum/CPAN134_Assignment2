@@ -1,0 +1,27 @@
+body{
+    background-image: url('pic.jpeg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+    color: rgb(245, 245, 245);
+    font-family:'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h1{
+    text-align: center;
+    background-color:rgb(58, 39, 114);
+    color:white;
+    font-family:cursive;
+    font-style: italic;
+    font-size: 2.5em;
+    text-shadow: 2px 2px 3px;
+    font-variant: small-caps;
+}
+#nav1{
+    color:rgb(179, 0, 255);
+    font-size: large;
+    font-style: italic;
+}
+code>a:hover{
+    background-color: yellow;
+}
